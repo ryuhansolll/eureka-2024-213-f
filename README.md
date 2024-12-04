@@ -2,6 +2,12 @@
 
 유레카 프로젝트 팀 생성을 축하합니다.
 
+<details>
+  <summary>Click to toggle details</summary>
+  This is the content that gets toggled. You can include **Markdown** within these details.
+</details>
+
+
 **팀페이지 주소** -> https://kookmin-sw-eureka.github.io/ '{{분반 및 자신의 팀 번호}}'
 
 **예시)** 2024년 1분반 1조  https://kookmin-sw-eureka.github.io/eureka-2024-101
@@ -13,10 +19,6 @@ Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구
 ```markdown
 Syntax highlighted code block
 
-<details>
-  <summary>Click to toggle details</summary>
-  This is the content that gets toggled. You can include **Markdown** within these details.
-</details>
 
 
 # Header 1
